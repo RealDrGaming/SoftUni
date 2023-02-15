@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\bin\Debug\net6.0\2ChangeList.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\bin\Debug\net6.0\2ChangeList.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\bin\Debug\net6.0\2ChangeList.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\bin\Debug\net6.0\2ChangeList.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\bin\Debug\net6.0\2ChangeList.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\obj\Debug\net6.0\2ChangeList.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\obj\Debug\net6.0\2ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\obj\Debug\net6.0\2ChangeList.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\obj\Debug\net6.0\2ChangeList.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\obj\Debug\net6.0\2ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\obj\Debug\net6.0\2ChangeList.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\obj\Debug\net6.0\refint\2ChangeList.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\obj\Debug\net6.0\2ChangeList.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\obj\Debug\net6.0\2ChangeList.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\2ChangeList\obj\Debug\net6.0\ref\2ChangeList.dll

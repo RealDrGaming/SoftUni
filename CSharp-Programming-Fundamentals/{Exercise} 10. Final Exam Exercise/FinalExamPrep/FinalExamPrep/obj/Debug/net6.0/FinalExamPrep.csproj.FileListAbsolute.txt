@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\bin\Debug\net6.0\FinalExamPrep.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\bin\Debug\net6.0\FinalExamPrep.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\bin\Debug\net6.0\FinalExamPrep.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\bin\Debug\net6.0\FinalExamPrep.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\bin\Debug\net6.0\FinalExamPrep.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\obj\Debug\net6.0\FinalExamPrep.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\obj\Debug\net6.0\FinalExamPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\obj\Debug\net6.0\FinalExamPrep.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\obj\Debug\net6.0\FinalExamPrep.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\obj\Debug\net6.0\FinalExamPrep.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\obj\Debug\net6.0\FinalExamPrep.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\obj\Debug\net6.0\refint\FinalExamPrep.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\obj\Debug\net6.0\FinalExamPrep.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\obj\Debug\net6.0\FinalExamPrep.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\FinalExamPrep\obj\Debug\net6.0\ref\FinalExamPrep.dll

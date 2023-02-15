@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\obj\Debug\net6.0\8FactorialDivision.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\obj\Debug\net6.0\8FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\obj\Debug\net6.0\8FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\obj\Debug\net6.0\8FactorialDivision.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\obj\Debug\net6.0\8FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\bin\Debug\net6.0\8FactorialDivision.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\bin\Debug\net6.0\8FactorialDivision.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\bin\Debug\net6.0\8FactorialDivision.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\bin\Debug\net6.0\8FactorialDivision.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\bin\Debug\net6.0\8FactorialDivision.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\obj\Debug\net6.0\8FactorialDivision.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\obj\Debug\net6.0\refint\8FactorialDivision.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\obj\Debug\net6.0\8FactorialDivision.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\obj\Debug\net6.0\8FactorialDivision.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\8FactorialDivision\obj\Debug\net6.0\ref\8FactorialDivision.dll

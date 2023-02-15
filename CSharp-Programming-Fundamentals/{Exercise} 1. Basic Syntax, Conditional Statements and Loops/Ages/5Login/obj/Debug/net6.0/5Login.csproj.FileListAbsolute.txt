@@ -1,0 +1,14 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\bin\Debug\net6.0\5Login.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\bin\Debug\net6.0\5Login.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\bin\Debug\net6.0\5Login.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\bin\Debug\net6.0\5Login.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\bin\Debug\net6.0\ref\5Login.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\bin\Debug\net6.0\5Login.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\obj\Debug\net6.0\5Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\obj\Debug\net6.0\5Login.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\obj\Debug\net6.0\5Login.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\obj\Debug\net6.0\5Login.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\obj\Debug\net6.0\5Login.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\obj\Debug\net6.0\ref\5Login.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\obj\Debug\net6.0\5Login.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\5Login\obj\Debug\net6.0\5Login.genruntimeconfig.cache

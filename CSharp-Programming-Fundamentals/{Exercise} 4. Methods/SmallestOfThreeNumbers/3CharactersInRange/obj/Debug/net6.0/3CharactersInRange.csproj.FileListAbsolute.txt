@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\bin\Debug\net6.0\3CharactersInRange.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\bin\Debug\net6.0\3CharactersInRange.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\bin\Debug\net6.0\3CharactersInRange.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\bin\Debug\net6.0\3CharactersInRange.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\bin\Debug\net6.0\3CharactersInRange.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\obj\Debug\net6.0\3CharactersInRange.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\obj\Debug\net6.0\3CharactersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\obj\Debug\net6.0\3CharactersInRange.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\obj\Debug\net6.0\3CharactersInRange.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\obj\Debug\net6.0\3CharactersInRange.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\obj\Debug\net6.0\3CharactersInRange.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\obj\Debug\net6.0\refint\3CharactersInRange.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\obj\Debug\net6.0\3CharactersInRange.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\obj\Debug\net6.0\3CharactersInRange.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\3CharactersInRange\obj\Debug\net6.0\ref\3CharactersInRange.dll

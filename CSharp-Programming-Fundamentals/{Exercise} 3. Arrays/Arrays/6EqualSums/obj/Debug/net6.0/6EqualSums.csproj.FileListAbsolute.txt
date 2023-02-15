@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\bin\Debug\net6.0\6EqualSums.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\bin\Debug\net6.0\6EqualSums.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\bin\Debug\net6.0\6EqualSums.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\bin\Debug\net6.0\6EqualSums.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\bin\Debug\net6.0\ref\6EqualSums.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\bin\Debug\net6.0\6EqualSums.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\obj\Debug\net6.0\6EqualSums.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\obj\Debug\net6.0\6EqualSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\obj\Debug\net6.0\6EqualSums.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\obj\Debug\net6.0\6EqualSums.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\obj\Debug\net6.0\6EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\obj\Debug\net6.0\6EqualSums.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\obj\Debug\net6.0\ref\6EqualSums.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\obj\Debug\net6.0\6EqualSums.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\6EqualSums\obj\Debug\net6.0\6EqualSums.genruntimeconfig.cache

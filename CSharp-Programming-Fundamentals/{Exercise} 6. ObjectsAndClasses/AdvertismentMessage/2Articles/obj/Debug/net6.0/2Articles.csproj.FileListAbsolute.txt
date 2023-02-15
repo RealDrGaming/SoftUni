@@ -1,0 +1,30 @@
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\bin\Debug\net6.0\2Articles.exe
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\bin\Debug\net6.0\2Articles.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\bin\Debug\net6.0\2Articles.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\bin\Debug\net6.0\2Articles.dll
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\bin\Debug\net6.0\2Articles.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.dll
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\obj\Debug\net6.0\refint\2Articles.dll
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni2022\{Lab} Objects and Classes\AdvertismentMessage\2Articles\obj\Debug\net6.0\ref\2Articles.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\bin\Debug\net6.0\2Articles.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\bin\Debug\net6.0\2Articles.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\bin\Debug\net6.0\2Articles.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\bin\Debug\net6.0\2Articles.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\bin\Debug\net6.0\2Articles.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\obj\Debug\net6.0\refint\2Articles.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\obj\Debug\net6.0\2Articles.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 6.ObjectsAndClasses\AdvertismentMessage\2Articles\obj\Debug\net6.0\ref\2Articles.dll

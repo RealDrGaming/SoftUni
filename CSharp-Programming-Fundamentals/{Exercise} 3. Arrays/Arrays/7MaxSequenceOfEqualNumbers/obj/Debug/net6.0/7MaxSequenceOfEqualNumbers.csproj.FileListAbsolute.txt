@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\bin\Debug\net6.0\7MaxSequenceOfEqualNumbers.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\bin\Debug\net6.0\7MaxSequenceOfEqualNumbers.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\bin\Debug\net6.0\7MaxSequenceOfEqualNumbers.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\bin\Debug\net6.0\7MaxSequenceOfEqualNumbers.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\bin\Debug\net6.0\7MaxSequenceOfEqualNumbers.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\obj\Debug\net6.0\7MaxSequenceOfEqualNumbers.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\obj\Debug\net6.0\7MaxSequenceOfEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\obj\Debug\net6.0\7MaxSequenceOfEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\obj\Debug\net6.0\7MaxSequenceOfEqualNumbers.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\obj\Debug\net6.0\7MaxSequenceOfEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\obj\Debug\net6.0\7MaxSequenceOfEqualNumbers.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\obj\Debug\net6.0\refint\7MaxSequenceOfEqualNumbers.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\obj\Debug\net6.0\7MaxSequenceOfEqualNumbers.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\obj\Debug\net6.0\7MaxSequenceOfEqualNumbers.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 3.Arrays\Arrays\7MaxSequenceOfEqualNumbers\obj\Debug\net6.0\ref\7MaxSequenceOfEqualNumbers.dll

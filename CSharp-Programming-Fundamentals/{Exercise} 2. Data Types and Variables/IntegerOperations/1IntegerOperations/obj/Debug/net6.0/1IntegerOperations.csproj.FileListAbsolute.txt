@@ -1,0 +1,14 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\bin\Debug\net6.0\1IntegerOperations.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\bin\Debug\net6.0\1IntegerOperations.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\bin\Debug\net6.0\1IntegerOperations.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\bin\Debug\net6.0\1IntegerOperations.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\bin\Debug\net6.0\ref\1IntegerOperations.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\bin\Debug\net6.0\1IntegerOperations.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\obj\Debug\net6.0\1IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\obj\Debug\net6.0\1IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\obj\Debug\net6.0\1IntegerOperations.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\obj\Debug\net6.0\1IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\obj\Debug\net6.0\1IntegerOperations.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\obj\Debug\net6.0\ref\1IntegerOperations.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\obj\Debug\net6.0\1IntegerOperations.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\1IntegerOperations\obj\Debug\net6.0\1IntegerOperations.genruntimeconfig.cache

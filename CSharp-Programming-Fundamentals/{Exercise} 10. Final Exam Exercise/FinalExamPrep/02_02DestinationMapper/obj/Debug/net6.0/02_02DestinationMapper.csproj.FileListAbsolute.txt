@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\bin\Debug\net6.0\02_02DestinationMapper.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\bin\Debug\net6.0\02_02DestinationMapper.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\bin\Debug\net6.0\02_02DestinationMapper.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\bin\Debug\net6.0\02_02DestinationMapper.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\bin\Debug\net6.0\02_02DestinationMapper.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\obj\Debug\net6.0\02_02DestinationMapper.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\obj\Debug\net6.0\02_02DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\obj\Debug\net6.0\02_02DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\obj\Debug\net6.0\02_02DestinationMapper.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\obj\Debug\net6.0\02_02DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\obj\Debug\net6.0\02_02DestinationMapper.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\obj\Debug\net6.0\refint\02_02DestinationMapper.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\obj\Debug\net6.0\02_02DestinationMapper.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\obj\Debug\net6.0\02_02DestinationMapper.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_02DestinationMapper\obj\Debug\net6.0\ref\02_02DestinationMapper.dll

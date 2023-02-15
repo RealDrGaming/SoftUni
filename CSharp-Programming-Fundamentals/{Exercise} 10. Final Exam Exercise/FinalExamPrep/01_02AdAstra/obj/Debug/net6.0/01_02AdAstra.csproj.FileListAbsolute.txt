@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\bin\Debug\net6.0\01_02AdAstra.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\bin\Debug\net6.0\01_02AdAstra.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\bin\Debug\net6.0\01_02AdAstra.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\bin\Debug\net6.0\01_02AdAstra.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\bin\Debug\net6.0\01_02AdAstra.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\obj\Debug\net6.0\01_02AdAstra.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\obj\Debug\net6.0\01_02AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\obj\Debug\net6.0\01_02AdAstra.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\obj\Debug\net6.0\01_02AdAstra.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\obj\Debug\net6.0\01_02AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\obj\Debug\net6.0\01_02AdAstra.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\obj\Debug\net6.0\refint\01_02AdAstra.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\obj\Debug\net6.0\01_02AdAstra.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\obj\Debug\net6.0\01_02AdAstra.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\01_02AdAstra\obj\Debug\net6.0\ref\01_02AdAstra.dll

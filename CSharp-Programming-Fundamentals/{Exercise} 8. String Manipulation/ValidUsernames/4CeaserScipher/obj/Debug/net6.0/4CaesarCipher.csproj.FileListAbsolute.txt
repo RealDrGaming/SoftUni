@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\bin\Debug\net6.0\4CaesarCipher.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\bin\Debug\net6.0\4CaesarCipher.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\bin\Debug\net6.0\4CaesarCipher.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\bin\Debug\net6.0\4CaesarCipher.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\bin\Debug\net6.0\4CaesarCipher.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\obj\Debug\net6.0\4CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\obj\Debug\net6.0\4CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\obj\Debug\net6.0\4CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\obj\Debug\net6.0\4CaesarCipher.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\obj\Debug\net6.0\4CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\obj\Debug\net6.0\4CaesarCipher.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\obj\Debug\net6.0\refint\4CaesarCipher.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\obj\Debug\net6.0\4CaesarCipher.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\obj\Debug\net6.0\4CaesarCipher.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\4CeaserScipher\obj\Debug\net6.0\ref\4CaesarCipher.dll

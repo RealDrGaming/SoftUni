@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\bin\Debug\net6.0\Vacation.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\bin\Debug\net6.0\Vacation.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\bin\Debug\net6.0\Vacation.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\bin\Debug\net6.0\Vacation.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\bin\Debug\net6.0\ref\Vacation.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\bin\Debug\net6.0\Vacation.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\obj\Debug\net6.0\Vacation.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\obj\Debug\net6.0\Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\obj\Debug\net6.0\Vacation.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\obj\Debug\net6.0\Vacation.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\obj\Debug\net6.0\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\obj\Debug\net6.0\Vacation.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\obj\Debug\net6.0\ref\Vacation.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\obj\Debug\net6.0\Vacation.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Vacation\obj\Debug\net6.0\Vacation.genruntimeconfig.cache

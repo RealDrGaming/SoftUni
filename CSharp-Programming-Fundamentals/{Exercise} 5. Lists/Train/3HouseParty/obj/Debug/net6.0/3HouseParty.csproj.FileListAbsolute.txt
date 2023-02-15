@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\bin\Debug\net6.0\3HouseParty.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\bin\Debug\net6.0\3HouseParty.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\bin\Debug\net6.0\3HouseParty.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\bin\Debug\net6.0\3HouseParty.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\bin\Debug\net6.0\3HouseParty.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\obj\Debug\net6.0\3HouseParty.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\obj\Debug\net6.0\3HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\obj\Debug\net6.0\3HouseParty.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\obj\Debug\net6.0\3HouseParty.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\obj\Debug\net6.0\3HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\obj\Debug\net6.0\3HouseParty.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\obj\Debug\net6.0\refint\3HouseParty.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\obj\Debug\net6.0\3HouseParty.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\obj\Debug\net6.0\3HouseParty.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\3HouseParty\obj\Debug\net6.0\ref\3HouseParty.dll

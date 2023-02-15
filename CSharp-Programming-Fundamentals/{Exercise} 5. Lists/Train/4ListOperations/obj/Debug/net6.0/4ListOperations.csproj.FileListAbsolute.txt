@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\bin\Debug\net6.0\4ListOperations.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\bin\Debug\net6.0\4ListOperations.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\bin\Debug\net6.0\4ListOperations.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\bin\Debug\net6.0\4ListOperations.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\bin\Debug\net6.0\4ListOperations.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\obj\Debug\net6.0\4ListOperations.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\obj\Debug\net6.0\4ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\obj\Debug\net6.0\4ListOperations.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\obj\Debug\net6.0\4ListOperations.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\obj\Debug\net6.0\4ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\obj\Debug\net6.0\4ListOperations.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\obj\Debug\net6.0\refint\4ListOperations.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\obj\Debug\net6.0\4ListOperations.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\obj\Debug\net6.0\4ListOperations.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 5.Lists\Train\4ListOperations\obj\Debug\net6.0\ref\4ListOperations.dll

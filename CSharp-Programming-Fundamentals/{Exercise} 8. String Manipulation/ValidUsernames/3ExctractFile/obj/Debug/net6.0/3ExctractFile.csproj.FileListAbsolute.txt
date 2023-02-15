@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\bin\Debug\net6.0\3ExctractFile.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\bin\Debug\net6.0\3ExctractFile.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\bin\Debug\net6.0\3ExctractFile.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\bin\Debug\net6.0\3ExctractFile.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\bin\Debug\net6.0\3ExctractFile.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\obj\Debug\net6.0\3ExctractFile.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\obj\Debug\net6.0\3ExctractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\obj\Debug\net6.0\3ExctractFile.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\obj\Debug\net6.0\3ExctractFile.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\obj\Debug\net6.0\3ExctractFile.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\obj\Debug\net6.0\3ExctractFile.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\obj\Debug\net6.0\refint\3ExctractFile.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\obj\Debug\net6.0\3ExctractFile.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\obj\Debug\net6.0\3ExctractFile.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\3ExctractFile\obj\Debug\net6.0\ref\3ExctractFile.dll

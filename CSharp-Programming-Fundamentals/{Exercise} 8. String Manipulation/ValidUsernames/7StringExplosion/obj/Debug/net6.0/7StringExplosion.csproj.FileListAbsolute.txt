@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\bin\Debug\net6.0\7StringExplosion.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\bin\Debug\net6.0\7StringExplosion.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\bin\Debug\net6.0\7StringExplosion.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\bin\Debug\net6.0\7StringExplosion.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\bin\Debug\net6.0\7StringExplosion.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\obj\Debug\net6.0\7StringExplosion.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\obj\Debug\net6.0\7StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\obj\Debug\net6.0\7StringExplosion.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\obj\Debug\net6.0\7StringExplosion.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\obj\Debug\net6.0\7StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\obj\Debug\net6.0\7StringExplosion.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\obj\Debug\net6.0\refint\7StringExplosion.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\obj\Debug\net6.0\7StringExplosion.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\obj\Debug\net6.0\7StringExplosion.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\7StringExplosion\obj\Debug\net6.0\ref\7StringExplosion.dll

@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\bin\Debug\net6.0\03_02MirrorWorlds.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\bin\Debug\net6.0\03_02MirrorWorlds.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\bin\Debug\net6.0\03_02MirrorWorlds.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\bin\Debug\net6.0\03_02MirrorWorlds.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\bin\Debug\net6.0\03_02MirrorWorlds.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\obj\Debug\net6.0\03_02MirrorWorlds.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\obj\Debug\net6.0\03_02MirrorWorlds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\obj\Debug\net6.0\03_02MirrorWorlds.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\obj\Debug\net6.0\03_02MirrorWorlds.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\obj\Debug\net6.0\03_02MirrorWorlds.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\obj\Debug\net6.0\03_02MirrorWorlds.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\obj\Debug\net6.0\refint\03_02MirrorWorlds.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\obj\Debug\net6.0\03_02MirrorWorlds.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\obj\Debug\net6.0\03_02MirrorWorlds.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_02MirrorWorlds\obj\Debug\net6.0\ref\03_02MirrorWorlds.dll

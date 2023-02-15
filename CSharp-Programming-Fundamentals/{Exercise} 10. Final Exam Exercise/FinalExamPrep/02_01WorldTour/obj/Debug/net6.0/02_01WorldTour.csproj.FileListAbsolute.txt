@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\bin\Debug\net6.0\02_01WorldTour.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\bin\Debug\net6.0\02_01WorldTour.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\bin\Debug\net6.0\02_01WorldTour.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\bin\Debug\net6.0\02_01WorldTour.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\bin\Debug\net6.0\02_01WorldTour.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\obj\Debug\net6.0\02_01WorldTour.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\obj\Debug\net6.0\02_01WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\obj\Debug\net6.0\02_01WorldTour.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\obj\Debug\net6.0\02_01WorldTour.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\obj\Debug\net6.0\02_01WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\obj\Debug\net6.0\02_01WorldTour.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\obj\Debug\net6.0\refint\02_01WorldTour.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\obj\Debug\net6.0\02_01WorldTour.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\obj\Debug\net6.0\02_01WorldTour.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\02_01WorldTour\obj\Debug\net6.0\ref\02_01WorldTour.dll

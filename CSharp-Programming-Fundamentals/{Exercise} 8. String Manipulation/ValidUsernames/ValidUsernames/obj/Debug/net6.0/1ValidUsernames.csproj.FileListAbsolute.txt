@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\obj\Debug\net6.0\1ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\obj\Debug\net6.0\1ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\obj\Debug\net6.0\1ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\obj\Debug\net6.0\1ValidUsernames.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\obj\Debug\net6.0\1ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\bin\Debug\net6.0\1ValidUsernames.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\bin\Debug\net6.0\1ValidUsernames.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\bin\Debug\net6.0\1ValidUsernames.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\bin\Debug\net6.0\1ValidUsernames.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\bin\Debug\net6.0\1ValidUsernames.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\obj\Debug\net6.0\1ValidUsernames.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\obj\Debug\net6.0\refint\1ValidUsernames.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\obj\Debug\net6.0\1ValidUsernames.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\obj\Debug\net6.0\1ValidUsernames.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 8. String Manipulation\ValidUsernames\ValidUsernames\obj\Debug\net6.0\ref\1ValidUsernames.dll

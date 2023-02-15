@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\bin\Debug\net6.0\2VowelsCount.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\bin\Debug\net6.0\2VowelsCount.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\bin\Debug\net6.0\2VowelsCount.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\bin\Debug\net6.0\2VowelsCount.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\bin\Debug\net6.0\2VowelsCount.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\obj\Debug\net6.0\2VowelsCount.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\obj\Debug\net6.0\2VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\obj\Debug\net6.0\2VowelsCount.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\obj\Debug\net6.0\2VowelsCount.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\obj\Debug\net6.0\2VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\obj\Debug\net6.0\2VowelsCount.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\obj\Debug\net6.0\refint\2VowelsCount.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\obj\Debug\net6.0\2VowelsCount.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\obj\Debug\net6.0\2VowelsCount.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\2VowelsCount\obj\Debug\net6.0\ref\2VowelsCount.dll

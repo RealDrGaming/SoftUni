@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\bin\Debug\net6.0\7VendingMachine.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\bin\Debug\net6.0\7VendingMachine.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\bin\Debug\net6.0\7VendingMachine.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\bin\Debug\net6.0\7VendingMachine.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\bin\Debug\net6.0\ref\7VendingMachine.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\bin\Debug\net6.0\7VendingMachine.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\obj\Debug\net6.0\7VendingMachine.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\obj\Debug\net6.0\7VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\obj\Debug\net6.0\7VendingMachine.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\obj\Debug\net6.0\7VendingMachine.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\obj\Debug\net6.0\7VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\obj\Debug\net6.0\7VendingMachine.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\obj\Debug\net6.0\ref\7VendingMachine.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\obj\Debug\net6.0\7VendingMachine.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\VendingMachine\obj\Debug\net6.0\7VendingMachine.genruntimeconfig.cache

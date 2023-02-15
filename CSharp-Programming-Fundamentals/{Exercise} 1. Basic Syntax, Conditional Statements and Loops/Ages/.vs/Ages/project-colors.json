@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2cc2e723-de9e-4788-8100-5683eb966c58": {
+      "ProjectGuid": "2cc2e723-de9e-4788-8100-5683eb966c58",
+      "DisplayName": "1Ages",
+      "ColorIndex": 0
+    },
+    "b99db195-bea8-4cd8-a4de-435844185378": {
+      "ProjectGuid": "b99db195-bea8-4cd8-a4de-435844185378",
+      "DisplayName": "2Division",
+      "ColorIndex": 1
+    },
+    "e23f8c41-986d-4190-a517-e36c0eff83f7": {
+      "ProjectGuid": "e23f8c41-986d-4190-a517-e36c0eff83f7",
+      "DisplayName": "3Vacation",
+      "ColorIndex": 2
+    },
+    "447edc17-d90a-47a4-8dc2-e403e86a69af": {
+      "ProjectGuid": "447edc17-d90a-47a4-8dc2-e403e86a69af",
+      "DisplayName": "4PrintAndSum",
+      "ColorIndex": 3
+    },
+    "021a13c9-38df-49a6-a033-de4355f19e40": {
+      "ProjectGuid": "021a13c9-38df-49a6-a033-de4355f19e40",
+      "DisplayName": "5Login",
+      "ColorIndex": 4
+    },
+    "3fc6af9e-dc3e-4521-b65d-8038b4beafa0": {
+      "ProjectGuid": "3fc6af9e-dc3e-4521-b65d-8038b4beafa0",
+      "DisplayName": "6StrongNumber",
+      "ColorIndex": 5
+    },
+    "98758193-12d8-4e1d-ad1f-955f92b8aeb3": {
+      "ProjectGuid": "98758193-12d8-4e1d-ad1f-955f92b8aeb3",
+      "DisplayName": "7VendingMachine",
+      "ColorIndex": 6
+    },
+    "04ec3568-1f2b-4e74-8e50-924063e3485d": {
+      "ProjectGuid": "04ec3568-1f2b-4e74-8e50-924063e3485d",
+      "DisplayName": "8TriangleOfNumbers",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

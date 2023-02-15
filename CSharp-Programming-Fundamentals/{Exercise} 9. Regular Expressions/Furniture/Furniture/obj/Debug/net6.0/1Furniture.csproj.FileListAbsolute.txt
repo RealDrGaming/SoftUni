@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\bin\Debug\net6.0\1Furniture.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\bin\Debug\net6.0\1Furniture.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\bin\Debug\net6.0\1Furniture.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\bin\Debug\net6.0\1Furniture.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\bin\Debug\net6.0\1Furniture.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\obj\Debug\net6.0\1Furniture.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\obj\Debug\net6.0\1Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\obj\Debug\net6.0\1Furniture.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\obj\Debug\net6.0\1Furniture.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\obj\Debug\net6.0\1Furniture.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\obj\Debug\net6.0\1Furniture.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\obj\Debug\net6.0\refint\1Furniture.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\obj\Debug\net6.0\1Furniture.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\obj\Debug\net6.0\1Furniture.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 9. Regular Expressions\Furniture\Furniture\obj\Debug\net6.0\ref\1Furniture.dll

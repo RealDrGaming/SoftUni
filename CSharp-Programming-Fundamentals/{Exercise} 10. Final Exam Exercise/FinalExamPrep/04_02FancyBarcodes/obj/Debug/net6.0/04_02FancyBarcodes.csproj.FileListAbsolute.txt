@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\bin\Debug\net6.0\04_02FancyBarcodes.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\bin\Debug\net6.0\04_02FancyBarcodes.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\bin\Debug\net6.0\04_02FancyBarcodes.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\bin\Debug\net6.0\04_02FancyBarcodes.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\bin\Debug\net6.0\04_02FancyBarcodes.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\obj\Debug\net6.0\04_02FancyBarcodes.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\obj\Debug\net6.0\04_02FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\obj\Debug\net6.0\04_02FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\obj\Debug\net6.0\04_02FancyBarcodes.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\obj\Debug\net6.0\04_02FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\obj\Debug\net6.0\04_02FancyBarcodes.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\obj\Debug\net6.0\refint\04_02FancyBarcodes.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\obj\Debug\net6.0\04_02FancyBarcodes.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\obj\Debug\net6.0\04_02FancyBarcodes.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\04_02FancyBarcodes\obj\Debug\net6.0\ref\04_02FancyBarcodes.dll

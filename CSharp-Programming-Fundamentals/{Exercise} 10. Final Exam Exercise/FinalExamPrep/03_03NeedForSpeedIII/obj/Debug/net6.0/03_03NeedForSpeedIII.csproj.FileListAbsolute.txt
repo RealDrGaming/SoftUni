@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\bin\Debug\net6.0\03_03NeedForSpeedIII.exe
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\bin\Debug\net6.0\03_03NeedForSpeedIII.deps.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\bin\Debug\net6.0\03_03NeedForSpeedIII.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\bin\Debug\net6.0\03_03NeedForSpeedIII.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\bin\Debug\net6.0\03_03NeedForSpeedIII.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\obj\Debug\net6.0\03_03NeedForSpeedIII.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\obj\Debug\net6.0\03_03NeedForSpeedIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\obj\Debug\net6.0\03_03NeedForSpeedIII.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\obj\Debug\net6.0\03_03NeedForSpeedIII.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\obj\Debug\net6.0\03_03NeedForSpeedIII.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\obj\Debug\net6.0\03_03NeedForSpeedIII.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\obj\Debug\net6.0\refint\03_03NeedForSpeedIII.dll
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\obj\Debug\net6.0\03_03NeedForSpeedIII.pdb
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\obj\Debug\net6.0\03_03NeedForSpeedIII.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni 2022\{Exercise} 10. Final Exam Exercise\FinalExamPrep\03_03NeedForSpeedIII\obj\Debug\net6.0\ref\03_03NeedForSpeedIII.dll

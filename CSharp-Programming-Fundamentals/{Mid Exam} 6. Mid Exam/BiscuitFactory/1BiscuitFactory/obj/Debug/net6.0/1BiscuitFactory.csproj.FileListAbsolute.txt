@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\bin\Debug\net6.0\1BiscuitFactory.exe
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\bin\Debug\net6.0\1BiscuitFactory.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\bin\Debug\net6.0\1BiscuitFactory.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\bin\Debug\net6.0\1BiscuitFactory.dll
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\bin\Debug\net6.0\1BiscuitFactory.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\obj\Debug\net6.0\1BiscuitFactory.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\obj\Debug\net6.0\1BiscuitFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\obj\Debug\net6.0\1BiscuitFactory.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\obj\Debug\net6.0\1BiscuitFactory.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\obj\Debug\net6.0\1BiscuitFactory.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\obj\Debug\net6.0\1BiscuitFactory.dll
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\obj\Debug\net6.0\refint\1BiscuitFactory.dll
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\obj\Debug\net6.0\1BiscuitFactory.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\obj\Debug\net6.0\1BiscuitFactory.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni2022\{Mid Exam} 6. Mid Exam\BiscuitFactory\1BiscuitFactory\obj\Debug\net6.0\ref\1BiscuitFactory.dll

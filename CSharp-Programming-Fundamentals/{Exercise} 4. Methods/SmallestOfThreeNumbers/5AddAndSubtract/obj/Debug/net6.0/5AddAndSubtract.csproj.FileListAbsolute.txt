@@ -1,0 +1,15 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\bin\Debug\net6.0\5AddAndSubtract.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\bin\Debug\net6.0\5AddAndSubtract.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\bin\Debug\net6.0\5AddAndSubtract.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\bin\Debug\net6.0\5AddAndSubtract.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\bin\Debug\net6.0\5AddAndSubtract.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\obj\Debug\net6.0\5AddAndSubtract.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\obj\Debug\net6.0\5AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\obj\Debug\net6.0\5AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\obj\Debug\net6.0\5AddAndSubtract.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\obj\Debug\net6.0\5AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\obj\Debug\net6.0\5AddAndSubtract.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\obj\Debug\net6.0\refint\5AddAndSubtract.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\obj\Debug\net6.0\5AddAndSubtract.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\obj\Debug\net6.0\5AddAndSubtract.genruntimeconfig.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} 4. Methods\SmallestOfThreeNumbers\5AddAndSubtract\obj\Debug\net6.0\ref\5AddAndSubtract.dll

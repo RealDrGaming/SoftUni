@@ -1,0 +1,14 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\bin\Debug\net6.0\3Elevator.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\bin\Debug\net6.0\3Elevator.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\bin\Debug\net6.0\3Elevator.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\bin\Debug\net6.0\3Elevator.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\bin\Debug\net6.0\ref\3Elevator.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\bin\Debug\net6.0\3Elevator.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\obj\Debug\net6.0\3Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\obj\Debug\net6.0\3Elevator.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\obj\Debug\net6.0\3Elevator.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\obj\Debug\net6.0\3Elevator.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\obj\Debug\net6.0\3Elevator.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\obj\Debug\net6.0\ref\3Elevator.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\obj\Debug\net6.0\3Elevator.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\3Elevator\obj\Debug\net6.0\3Elevator.genruntimeconfig.cache

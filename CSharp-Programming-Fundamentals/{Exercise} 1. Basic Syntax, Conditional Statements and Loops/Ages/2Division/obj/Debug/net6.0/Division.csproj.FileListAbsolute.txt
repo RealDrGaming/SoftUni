@@ -1,0 +1,14 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\bin\Debug\net6.0\Division.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\bin\Debug\net6.0\Division.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\bin\Debug\net6.0\Division.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\bin\Debug\net6.0\Division.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\bin\Debug\net6.0\ref\Division.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\bin\Debug\net6.0\Division.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\obj\Debug\net6.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\obj\Debug\net6.0\Division.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\obj\Debug\net6.0\Division.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\obj\Debug\net6.0\Division.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\obj\Debug\net6.0\Division.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\obj\Debug\net6.0\ref\Division.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\obj\Debug\net6.0\Division.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Basic Syntax, Conditional Statements and Loops\Ages\Division\obj\Debug\net6.0\Division.genruntimeconfig.cache

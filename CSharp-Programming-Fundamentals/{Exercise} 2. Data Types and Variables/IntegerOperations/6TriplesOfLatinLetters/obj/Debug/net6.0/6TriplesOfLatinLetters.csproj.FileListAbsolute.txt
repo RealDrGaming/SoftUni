@@ -1,0 +1,14 @@
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\bin\Debug\net6.0\6TriplesOfLatinLetters.exe
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\bin\Debug\net6.0\6TriplesOfLatinLetters.deps.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\bin\Debug\net6.0\6TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\bin\Debug\net6.0\6TriplesOfLatinLetters.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\bin\Debug\net6.0\ref\6TriplesOfLatinLetters.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\bin\Debug\net6.0\6TriplesOfLatinLetters.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\obj\Debug\net6.0\6TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\obj\Debug\net6.0\6TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\obj\Debug\net6.0\6TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\obj\Debug\net6.0\6TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\obj\Debug\net6.0\6TriplesOfLatinLetters.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\obj\Debug\net6.0\ref\6TriplesOfLatinLetters.dll
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\obj\Debug\net6.0\6TriplesOfLatinLetters.pdb
+C:\Users\danko\Desktop\SoftUni2022\{Exercise} Data Types and Variables\IntegerOperations\6TriplesOfLatinLetters\obj\Debug\net6.0\6TriplesOfLatinLetters.genruntimeconfig.cache
