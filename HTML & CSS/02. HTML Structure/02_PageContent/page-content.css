@@ -1,0 +1,27 @@
+h1
+{
+    font-size: 28px;
+    
+}
+
+.header-paragraph
+{
+    font-style: italic;
+}
+
+.under-header-paragraph
+{
+    font-size: 24px;
+}
+
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: #CCCCCC;
+}
+
+section
+{
+    margin-left: 20px;
+}
