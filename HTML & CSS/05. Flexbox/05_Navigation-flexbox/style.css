@@ -1,0 +1,34 @@
+body 
+{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+body > header 
+{
+  border-bottom: 2px solid rgb(0,0,0);
+  display: flex;
+}
+
+header h1 
+{
+  text-transform: uppercase;
+  width: 70%;
+}
+
+header .nav ul 
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+header .nav 
+{
+  width: 30%;
+}
+
+.nav ul li a 
+{
+  color: rgb(0, 153, 0);
+  text-decoration: none;
+}

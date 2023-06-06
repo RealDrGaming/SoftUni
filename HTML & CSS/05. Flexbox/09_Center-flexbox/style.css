@@ -1,0 +1,17 @@
+body 
+{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(238, 238, 238);
+}
+
+.card
+{
+  position: absolute;
+  bottom: 50%;
+  background-color: rgb(255, 255, 255);
+  width: 25%;
+  border-radius: 5px;
+  border: 5px solid whitesmoke;
+  box-shadow: 0 0 5px;
+}

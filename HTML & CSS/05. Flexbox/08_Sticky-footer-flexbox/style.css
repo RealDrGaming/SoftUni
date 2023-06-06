@@ -1,0 +1,38 @@
+body 
+{
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: rgb(238, 238, 238);
+  font-family: Helvetica, sans-serif;
+  height: 100vh;
+}
+
+header h1 
+{
+  padding-left: 20px;
+  text-transform: uppercase;
+}
+
+header 
+{
+  flex: 0 0 100%;
+  height: fit-content;
+}
+
+main 
+{
+  padding-left: 20px;
+  font-size: larger;
+}
+
+footer
+{
+  background-color: rgb(102, 102, 102);
+  color: rgb(255, 255, 255);
+  height: fit-content;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}

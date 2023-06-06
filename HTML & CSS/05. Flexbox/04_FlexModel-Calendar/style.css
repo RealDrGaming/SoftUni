@@ -1,0 +1,59 @@
+* 
+{
+  box-sizing: border-box;
+}
+
+.container
+{
+  border: 3px solid black;
+  display: flex;
+  max-width: 65vw;
+  text-align: center;
+  height: 350px;
+}
+
+.container section 
+{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container .week 
+{
+  width: 75%;
+}
+
+.container .notes 
+{
+  flex-direction: column;
+  width: 25%;
+}
+
+.item 
+{
+  border: 1px solid black;
+}
+
+.week .item 
+{
+  padding-top: 15px;
+  width: 20%;
+}
+
+.week :nth-child(1),
+.week :nth-child(7) 
+{
+  width: 100%;
+}
+
+.week :nth-child(8),
+.week :nth-child(9) 
+{
+  flex: 1 1 50%;
+}
+
+.notes .item 
+{
+  padding-top: 15px;
+  flex: 1 1 50%;
+}

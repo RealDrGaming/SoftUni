@@ -1,0 +1,67 @@
+html 
+{
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.container 
+{
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  max-width: 15vw;
+  height: 35rem;
+  top: 20px;
+  left: 20px;
+}
+
+span 
+{
+  border: 1px solid black;
+  text-align: center;
+  width: 35px;
+  height: 25px;
+  margin-left: 1px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.container :nth-child(1) {
+  order: 9;
+}
+
+.container :nth-child(2) {
+  order: 2;
+}
+.container :nth-child(3) {
+  order: 10;
+}
+.container :nth-child(4) {
+  order: 4;
+}
+.container :nth-child(5) {
+  order: 8;
+}
+.container :nth-child(6) {
+  order: 7;
+}
+.container :nth-child(7) {
+  order: 11;
+}
+.container :nth-child(8) {
+  order: 5;
+}
+.container :nth-child(9) {
+  order: 6;
+}
+.container :nth-child(10) {
+  order: 12;
+}
+.container :nth-child(11) {
+  order: 1;
+}
+.container :nth-child(12) {
+  order: 3;
+}

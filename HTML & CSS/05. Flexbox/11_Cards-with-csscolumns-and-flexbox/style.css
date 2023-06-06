@@ -1,0 +1,63 @@
+body 
+{
+    background-color: rgb(238, 238, 238);
+    font: 20px/1.5;
+    margin: 5rem 10rem;
+    float: left;
+}
+
+h2 
+{
+    font-size: 35px;
+    padding-bottom: 2rem;
+}
+
+.masonry 
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.flex 
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.Card 
+{
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid rgb(199, 194, 194);
+    border-radius: 1rem;
+    width: 20rem;
+
+}
+
+.Card h3 
+{
+    padding: 2rem 1rem 0rem 1rem;
+    margin: -5px 0px -10px 0px;
+}
+
+.Card p 
+{
+    padding: 0rem 2rem 2rem 1rem;
+    font-size: large;
+}
+
+img 
+{
+    width: 20rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+footer 
+{
+    border-top: 2px solid rgb(199, 194, 194);
+    padding: 2rem;
+}
