@@ -1,0 +1,53 @@
+.Navigation {
+  display:flex;
+}
+
+ header>p{
+  font-size: 3rem;
+  border-bottom: 2px solid black;
+  padding-bottom: 1rem;
+ }
+
+ h2{
+  padding-top: 2rem;
+ }
+
+ .siteheader{
+  padding-left: 4rem;
+ }
+
+.siteheader ul {
+  display: flex;
+  padding-left: 33rem;
+  margin-bottom: -10rem;
+}
+
+.siteheader li {
+  padding-left: 6rem;
+  list-style-type: none;
+  position: relative;
+  bottom:180px;
+  right: 50px;
+}
+
+a{
+  color: rgb(0, 153, 0);
+  text-decoration: none;
+}
+
+blockquote{
+  font-family: Georgia, serif;
+  padding-right: 7em;
+  padding-left: 2em;
+  border-left: 4px solid silver;
+  color: silver;
+}
+
+.TheBlockquote >p{
+  margin-right: 50px;
+}
+
+.TheBlockquote{
+  display:flex;
+}
+

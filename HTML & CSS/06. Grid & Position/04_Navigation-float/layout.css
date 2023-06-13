@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(238, 238, 238);
+    width: 1400px;
+    height: auto;
+}
+
+main{
+    margin-left:4rem;
+    margin-right: 5rem;
+    display: flex;
+}
+
+h1{
+    font-size:1.8em;
+}
+
+h3{
+    font-size: 1.3em;
+}
+
+.siteheader{
+    margin-top: 4rem;
+    margin-bottom: -3rem;
+}
+
+p{
+    font: 1em/1.2 helvetica, sans-serif;
+}
+
+li{
+    font: 1em/1.2 helvetica, sans-serif;
+}
+
+aside{
+    margin-left: 5rem;
+    margin-right: 2rem;
+}

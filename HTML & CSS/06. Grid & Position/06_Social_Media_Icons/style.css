@@ -1,0 +1,49 @@
+@import 
+url(https://use.fontawesome.com/releases/v6.4.0/css/all.css);
+
+body{
+    width: 550px;
+    height: 90px;
+    padding: 20px;
+    border: 1px solid black;
+    padding: 20px;
+    position: absolute;
+    top:0%;
+    bottom: 0%;
+    left:0%;
+    right: 0%;
+    margin:auto;
+}
+
+li{
+    display:inline-block;
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 50%;
+    background-color: rgb(228, 222, 222);
+}
+
+a{
+    color: rgb(71, 68, 68);
+    border-radius: 50%;
+}
+
+img{
+    padding-left: 30px;
+}
+
+.fb:hover{
+    color:rgb(22, 22, 223);
+}
+.tw:hover{
+    color:rgb(101, 101, 233);
+}
+.go:hover{
+    color:rgb(214, 48, 48);
+}
+.ht:hover{
+    color:rgb(101, 101, 233);
+}
+.in:hover{
+    color:rgb(107, 107, 204);
+}
