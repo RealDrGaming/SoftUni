@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap');
+html{
+    font: 14px/1.5 "PT Serif", sans-serif;
+}
+body,input,textarea{
+    font:inherit;
+}
+h1,h2,h3,h4,h5,h6{
+
+}
+h1{ font-size: 2.4em;}
+h2{ font-size: 2.0em;}
+h3{ font-size: 1.8em;}
+h4{ font-size: 1.4em;}
+h5{ font-size: 1.2em;}
+h6{ font-size: 1em;}
+p,ul,ol,dl{
+
+}

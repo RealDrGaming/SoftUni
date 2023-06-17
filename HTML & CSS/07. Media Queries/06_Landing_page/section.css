@@ -1,0 +1,171 @@
+.main-content {
+    display: flex;
+    flex-direction: column;
+    max-width: 850px;
+    align-items: center;
+}
+
+.section-first {
+    display: flex;
+    flex-direction: row;
+    max-width: 550px;
+    padding: 5em;
+}
+
+svg {
+    width: 140px;
+    height: 140px;
+}
+
+.main-content-text {
+    font-size: 0.8em;
+    margin: 2em 0;
+}
+.section-first-text{
+    margin-right: 2em;
+}
+.tell-us {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 0.3em 1em;
+    color: black;
+}
+
+.our-team {
+    display: inline-block;
+    text-align: center;
+}
+
+.image {
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    box-shadow: 0px 0px 10px 5px rgb(187, 187, 187);
+}
+
+.team .people{
+    text-align: center;
+}
+.h2-title{
+    text-align: center;
+    padding-top: 1em;
+}
+.h2-title::after {
+    display: block;
+    content: '';
+    width: 3.5em;
+    height: 2px;
+    border: 2px;
+    background: black;
+    border-radius: 2px;
+    margin: 0.5em auto;
+
+}
+
+.team-container, .grid-testimonials-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2em;
+    padding: 2em;
+    text-align: center;
+}
+
+.name {
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+.resume {
+    font-style: italic;
+    margin-top: 1em;
+}
+
+.sign-up {
+    background-color: rgb(128, 35, 128);
+    width: 850px;
+    text-align: center;
+}
+
+.input {
+    width: 300px;
+}
+
+.h2-title02 {
+    color: white;
+    padding-top: 1em;
+}
+.input-text-btn{
+    margin: 1em;
+    padding: 2em 1em;
+}
+.sign-up-btn{
+    text-decoration: none;
+    background-color:gainsboro;
+    padding: 0.2em 1em;
+    margin-left: 0.3em;
+    color: black;
+    border-radius:4px;
+    border: 1px solid black;
+}
+.testimonials{
+    min-height: 80vh;
+    box-shadow: 0px 5px 5px lightgrey;
+}
+.our-team{
+    box-shadow: 0px 1px 5px lightgrey;
+    margin-top:1em;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+    width: 850px;
+    justify-content: space-between;
+    gap: 3em;
+    padding:2em;
+}
+
+.footer-second{
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 33%;
+}
+.footer-nav{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content:flex-start;   
+}
+.footer-nav li{
+    margin-right: 2em;
+    
+}
+.footer-first{
+    flex: 0 0 33%;
+
+}
+.footer-h{
+    margin-bottom: 1em;
+}
+.footer-second a {
+    text-decoration: none;
+    color: black;
+}
+.footer-second ul{
+    list-style-type: none;
+}
+h4{
+    margin-bottom:1em;
+}
+.footer-third{
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 33%;
+}
+.contacts{
+    height: 1em;
+    width: 1em;
+    margin-right: 1em;
+}

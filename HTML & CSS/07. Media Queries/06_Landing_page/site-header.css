@@ -1,0 +1,36 @@
+.site-header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.main-nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.main-nav ul{
+    display: flex;
+}
+.main-nav li,
+.main-nav a {
+    display: block;
+}
+.main-nav li {
+    padding: 0 0.3em;
+}
+
+.main-nav a {
+    padding: 1em;
+    text-decoration: none;
+    color: black
+}
+.logo-title{
+    font-size: 2.8em;
+    color: purple;
+    font-weight: bold;
+}
+.sub-title{
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
