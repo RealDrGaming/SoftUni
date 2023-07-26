@@ -4,11 +4,8 @@ function solve(params)
 
   for (const element of params)
   {
-    if (
-      element.startsWith("#") &&
-      element.length > 1 &&
-      isLettersOnly(element.substring(1))
-    ) {
+    if (element.startsWith("#") && element.length > 1 && isLettersOnly(element.substring(1))) 
+    {
       let result = element.substring(1);
       console.log(result);
     }
